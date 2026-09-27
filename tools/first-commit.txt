@@ -1,0 +1,9 @@
+Пустое расширение Рекламации с заимствованными объектами
+
+Проект: скрипты dump/load для расширения, выгрузка БП в base-src (вне git),
+CLAUDE.md с правилами работы, README, инструкция СТАРТ.md.
+Расширение: заимствованы РеализацияТоваровУслуг, Контрагенты, Номенклатура,
+Организации, Пользователи.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01T7vbafWgrz6JkbSazZwWQG

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="69594a90-17ec-48bb-ad79-b5c5ee292473" configVersion="6f94f008fbd7aa0d6501fdc472481643a6473cf6"/>
+		<Metadata name="Catalog.Номенклатура" id="d924954a-deea-4931-90b5-19115b8d3b25" configVersion="00aa819e35358a0333f7a38c5a6c66f9b6cc72a6"/>
+		<Metadata name="Catalog.Организации" id="e25a70ed-7a08-42a7-8e1b-d1718ddeb998" configVersion="84a3ceb20011cbd5678bd4c9134d4f563ca78dec"/>
+		<Metadata name="Catalog.Пользователи" id="79e02e02-a86f-4d02-8702-c89f73af7e5d" configVersion="8853640e788e9cd2b0523daaf72357ad82eaf817"/>
+		<Metadata name="Configuration.Рекламации" id="f83978f3-adbd-481b-a5b6-385acfdc668b" configVersion="fc2a0779c162006c50dcba047d2ed8aab8a17fbc"/>
+		<Metadata name="Document.РеализацияТоваровУслуг" id="e25077ee-1274-4471-bd0f-1b3818359947" configVersion="b32f25d9eb03b0ffb6f83533501058369dda3203"/>
+		<Metadata name="Language.Русский" id="9f2d067b-8ddc-4eb9-a973-2875075daffe" configVersion="9ec1251599e67e383d88d51b59af449d7fe9f26e"/>
+		<Metadata name="Role.рек_ОсновнаяРоль" id="9dc5ea43-1756-4369-8bff-9f80cd04965c" configVersion="d75864f108c2a4c6fb9f58c039bc0ee94bcf26e7"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

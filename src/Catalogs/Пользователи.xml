@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="79e02e02-a86f-4d02-8702-c89f73af7e5d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Пользователи" category="Object">
+				<xr:TypeId>2eb1e9a4-20e6-464b-8017-8cbe170dfb52</xr:TypeId>
+				<xr:ValueId>29eeb9dc-f39b-46d6-926c-c49f1f7c5f63</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Пользователи" category="Ref">
+				<xr:TypeId>0f1060b5-b922-4204-b22c-c085b11cdcfb</xr:TypeId>
+				<xr:ValueId>feb1e5c0-8a86-4d72-827a-cb63e84bccca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Пользователи" category="Selection">
+				<xr:TypeId>34420e2d-cdfa-4ff8-a219-86330ad4b76f</xr:TypeId>
+				<xr:ValueId>18e762c3-c388-4d45-baa6-159f04c59eb1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Пользователи" category="List">
+				<xr:TypeId>fc9b634d-115e-4746-afa2-5ce386136c0c</xr:TypeId>
+				<xr:ValueId>a25de3f0-d894-46d9-8830-5bc67ae36a3e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Пользователи" category="Manager">
+				<xr:TypeId>655c48cf-4215-475e-a15d-06c90c682f6b</xr:TypeId>
+				<xr:ValueId>5a95464b-e5c9-4d42-ac09-350c0d108b8c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Пользователи</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>bffeceba-fe82-4593-9d34-edc03d99fa44</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
