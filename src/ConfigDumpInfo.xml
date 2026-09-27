@@ -1,13 +1,61 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
+		<Metadata name="AccumulationRegister.рек_Рекламации" id="3f81e9b5-e9e3-4776-b6a4-5ed072e27605" configVersion="9a0c88e73bff9b64cf3bd01e5e22b3b546020f55">
+			<Metadata name="AccumulationRegister.рек_Рекламации.Dimension.Статус" id="09fff770-e574-4d69-9c1f-90bd45e26e19"/>
+			<Metadata name="AccumulationRegister.рек_Рекламации.Resource.Сумма" id="201df30c-e4c5-411e-ac20-d7b5116d1a59"/>
+			<Metadata name="AccumulationRegister.рек_Рекламации.Dimension.Контрагент" id="8ac993a0-5ee9-42de-839f-184b15febd4b"/>
+			<Metadata name="AccumulationRegister.рек_Рекламации.Dimension.Причина" id="9d13e154-71a1-4de6-abc5-d6026ebafe5f"/>
+			<Metadata name="AccumulationRegister.рек_Рекламации.Resource.Количество" id="dc7020b0-e669-488c-8ae1-66fc222ba7c5"/>
+			<Metadata name="AccumulationRegister.рек_Рекламации.Dimension.Организация" id="f1367a26-7be2-4a1a-86fc-8d6a0e1eca54"/>
+			<Metadata name="AccumulationRegister.рек_Рекламации.Dimension.Номенклатура" id="fd011218-2dfc-4b52-a916-b249daeac25b"/>
+		</Metadata>
 		<Metadata name="Catalog.Контрагенты" id="69594a90-17ec-48bb-ad79-b5c5ee292473" configVersion="6f94f008fbd7aa0d6501fdc472481643a6473cf6"/>
 		<Metadata name="Catalog.Номенклатура" id="d924954a-deea-4931-90b5-19115b8d3b25" configVersion="00aa819e35358a0333f7a38c5a6c66f9b6cc72a6"/>
 		<Metadata name="Catalog.Организации" id="e25a70ed-7a08-42a7-8e1b-d1718ddeb998" configVersion="84a3ceb20011cbd5678bd4c9134d4f563ca78dec"/>
 		<Metadata name="Catalog.Пользователи" id="79e02e02-a86f-4d02-8702-c89f73af7e5d" configVersion="8853640e788e9cd2b0523daaf72357ad82eaf817"/>
-		<Metadata name="Configuration.Рекламации" id="f83978f3-adbd-481b-a5b6-385acfdc668b" configVersion="fc2a0779c162006c50dcba047d2ed8aab8a17fbc"/>
-		<Metadata name="Document.РеализацияТоваровУслуг" id="e25077ee-1274-4471-bd0f-1b3818359947" configVersion="b32f25d9eb03b0ffb6f83533501058369dda3203"/>
+		<Metadata name="Catalog.рек_ПричиныРекламаций" id="f8d1b61d-fb06-479f-8bd9-57b3f6403af0" configVersion="69cd4bd5e27585828e08369f0efd6d6aea1222ec">
+			<Metadata name="Catalog.рек_ПричиныРекламаций.Attribute.ТребуетВозвратаТовара" id="0167fe55-cec8-4268-840a-1473ba5e737c"/>
+		</Metadata>
+		<Metadata name="Configuration.Рекламации" id="f83978f3-adbd-481b-a5b6-385acfdc668b" configVersion="4995f65224e9e92cf2fe981a691fdb49e6014e17"/>
+		<Metadata name="Document.РеализацияТоваровУслуг" id="e25077ee-1274-4471-bd0f-1b3818359947" configVersion="587e56703eb3865902205defea320d0dcf7de293"/>
+		<Metadata name="Document.РеализацияТоваровУслуг.ObjectModule" id="e25077ee-1274-4471-bd0f-1b3818359947.0" configVersion="d6f630dfc31bc25a76a8113a89025deaf191a7f7"/>
+		<Metadata name="Document.рек_Рекламация" id="8cf6e2a1-7219-476d-ae14-c800f2e9516d" configVersion="96a1a5fda7496434c2f471e9524839750aa38b86">
+			<Metadata name="Document.рек_Рекламация.TabularSection.Товары.Attribute.Сумма" id="0eb9a926-d7d9-4287-9299-16ff40afc7c5"/>
+			<Metadata name="Document.рек_Рекламация.Attribute.Контрагент" id="21c9ab5a-9f29-40ce-97bf-716e43f076ef"/>
+			<Metadata name="Document.рек_Рекламация.Attribute.ДокументРеализации" id="40b61c14-ba77-4a66-9704-3e7147227353"/>
+			<Metadata name="Document.рек_Рекламация.TabularSection.Товары.Attribute.Причина" id="5e1760a4-e607-48a3-acee-7a67c8c02fb9"/>
+			<Metadata name="Document.рек_Рекламация.Attribute.Статус" id="68f9a7db-2a39-4462-9ee9-23fd2669b0ff"/>
+			<Metadata name="Document.рек_Рекламация.Attribute.Ответственный" id="a81c2b9f-720d-4732-a409-55b258cb6781"/>
+			<Metadata name="Document.рек_Рекламация.TabularSection.Товары.Attribute.Номенклатура" id="d7235305-bbb3-4f99-8030-ca5e0792891a"/>
+			<Metadata name="Document.рек_Рекламация.TabularSection.Товары" id="d77aac4a-63dc-426f-995d-a81a383da51c"/>
+			<Metadata name="Document.рек_Рекламация.Attribute.Организация" id="df1568dc-9bc6-4d34-97e1-0faea62d145b"/>
+			<Metadata name="Document.рек_Рекламация.TabularSection.Товары.Attribute.Количество" id="edb17e60-2c40-46c9-b903-103b85e4fb0e"/>
+			<Metadata name="Document.рек_Рекламация.Attribute.Комментарий" id="f99ae4b7-67ac-4de4-bbf4-e2ac912f1c37"/>
+		</Metadata>
+		<Metadata name="Document.рек_Рекламация.Form.ФормаДокумента" id="9720e8cc-624f-4df1-8b1c-8fb58371cb0a" configVersion="99b6510a095809a7ffa38fc892c8b26a28121d79"/>
+		<Metadata name="Document.рек_Рекламация.Form.ФормаДокумента.Form" id="9720e8cc-624f-4df1-8b1c-8fb58371cb0a.0" configVersion="2ab09575aa5d729dc6edd80814ea725f63c9cf36"/>
+		<Metadata name="Document.рек_Рекламация.ObjectModule" id="8cf6e2a1-7219-476d-ae14-c800f2e9516d.0" configVersion="db327021f8402c61fbc3b20333f534c3705e1d95"/>
+		<Metadata name="Enum.рек_СтатусыРекламаций" id="8b629e60-9e3b-46e6-ad28-36ddcf33066e" configVersion="62a6f9c4e968ebffa584d0a5d18bdb04031a7ac9">
+			<Metadata name="Enum.рек_СтатусыРекламаций.EnumValue.НаРассмотрении" id="4c3ec672-5004-409e-851d-5ddc5cc09ea4"/>
+			<Metadata name="Enum.рек_СтатусыРекламаций.EnumValue.Новая" id="5bd8757e-7277-4268-9f3d-e8e6eeb1781c"/>
+			<Metadata name="Enum.рек_СтатусыРекламаций.EnumValue.Отклонена" id="916a6115-1438-4ab0-a767-33e2e67941ee"/>
+			<Metadata name="Enum.рек_СтатусыРекламаций.EnumValue.Удовлетворена" id="d5cd56db-88ce-4807-9ecd-159723e10ea4"/>
+		</Metadata>
+		<Metadata name="InformationRegister.рек_ИсторияСтатусов" id="1654c6c4-a54f-47e1-b753-b0a5b595f006" configVersion="a514c98aecdb5d8c3f46c07c568fe8ab1b32a693">
+			<Metadata name="InformationRegister.рек_ИсторияСтатусов.Resource.Ответственный" id="09e4a930-b8c2-46de-b129-19fadf4de21a"/>
+			<Metadata name="InformationRegister.рек_ИсторияСтатусов.Resource.Автор" id="0eb79031-3bd9-4c33-a781-5901e0531ad9"/>
+			<Metadata name="InformationRegister.рек_ИсторияСтатусов.Resource.Статус" id="2ad33627-b74e-4b3d-a725-fb1855380880"/>
+			<Metadata name="InformationRegister.рек_ИсторияСтатусов.Dimension.Рекламация" id="6a812094-52ec-479c-8a9b-29e40b7180aa"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="9f2d067b-8ddc-4eb9-a973-2875075daffe" configVersion="9ec1251599e67e383d88d51b59af449d7fe9f26e"/>
-		<Metadata name="Role.рек_ОсновнаяРоль" id="9dc5ea43-1756-4369-8bff-9f80cd04965c" configVersion="d75864f108c2a4c6fb9f58c039bc0ee94bcf26e7"/>
+		<Metadata name="Report.рек_АнализРекламаций" id="eb59274f-915f-421c-94a2-c8b9ec59a6b7" configVersion="d58500938363d136107060a4cbd55c7e06682672"/>
+		<Metadata name="Report.рек_АнализРекламаций.Form.ФормаОтчета" id="dfbed7b2-9830-4d04-a2ff-c26b23b9e609" configVersion="7143485d8aac9ff9bd92d14fdfef2219c4006236"/>
+		<Metadata name="Report.рек_АнализРекламаций.Form.ФормаОтчета.Form" id="dfbed7b2-9830-4d04-a2ff-c26b23b9e609.0" configVersion="5aae5edc385807032e75cb670a8ea810aae76ead"/>
+		<Metadata name="Report.рек_АнализРекламаций.Template.ОсновнаяСхемаКомпоновкиДанных" id="df2b7431-077e-4a7e-a84e-70e877292a54" configVersion="e5cb93f6efef8097c32a7aae5895c541925d68db"/>
+		<Metadata name="Report.рек_АнализРекламаций.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="df2b7431-077e-4a7e-a84e-70e877292a54.0" configVersion="7dced51ceb7509cb7c45d1fe5f67b01857d5ec75"/>
+		<Metadata name="Role.рек_ОсновнаяРоль" id="9dc5ea43-1756-4369-8bff-9f80cd04965c" configVersion="3f55aaf431f63a53e41d5478831bb003e65d7885"/>
+		<Metadata name="Role.рек_ОсновнаяРоль.Rights" id="9dc5ea43-1756-4369-8bff-9f80cd04965c.0" configVersion="e2ff034fd5bcc69dfaed2dd953971d123ddc145a"/>
+		<Metadata name="Subsystem.рек_Рекламации" id="1c3ee5de-5a59-42b0-81c6-ef8aa77755d9" configVersion="6e84d6b20e5ad95043f31f1c2d4d7f2ee0f4dfb2"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

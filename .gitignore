@@ -25,4 +25,11 @@ desktop.ini
 .vscode/
 .idea/
 
+# Служебные файлы автоматизации (запуск кликом из Cowork) и заметки для ИИ-ассистента
+/_*
+/CLAUDE.md
+/СТАРТ.md
+/tools/init-git.bat
+/tools/first-commit.txt
+
 # ВАЖНО: src/ConfigDumpInfo.xml НЕ игнорируем — на нём держится инкрементальная выгрузка.

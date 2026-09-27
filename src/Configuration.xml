@@ -65,12 +65,19 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>рек_Рекламации</Subsystem>
 			<Role>рек_ОсновнаяРоль</Role>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Catalog>рек_ПричиныРекламаций</Catalog>
 			<Document>РеализацияТоваровУслуг</Document>
+			<Document>рек_Рекламация</Document>
+			<Enum>рек_СтатусыРекламаций</Enum>
+			<Report>рек_АнализРекламаций</Report>
+			<InformationRegister>рек_ИсторияСтатусов</InformationRegister>
+			<AccumulationRegister>рек_Рекламации</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
